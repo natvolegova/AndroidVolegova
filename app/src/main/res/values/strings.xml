@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidVolegova</string>
+    <string name="main_activity_label">FirstActivity</string>
+</resources>
